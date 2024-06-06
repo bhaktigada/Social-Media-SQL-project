@@ -29,7 +29,7 @@
 ## Getting Started
 <ol>
     <li>Clone the repository to your local machine.</li>
-    <li>Import the SQL script (`social_media_database.sql`) into your MySQL database management tool (e.g., MySQL Workbench).</li>
+    <li>Import the SQL script (`Social_media_database.sql`) into your MySQL database management tool (e.g., MySQL Workbench).</li>
     <li>Modify the script or database schema as needed to suit your specific requirements.</li>
     <li>Start querying and interacting with the database using SQL commands or through your application.</li>
 </ol>
