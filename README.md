@@ -36,10 +36,11 @@
 
 ## ER Diagram
 <p>The Entity-Relationship (ER) diagram for the social media database visually represents the structure of the database, including entities, attributes, and relationships between them. Refer to the ER diagram section for a detailed illustration of the database schema.</p>
-![ER diagram](ER_diagram.jpg)
+
+![Entity Relationship Diagram](https://github.com/bhaktigada/Social-Media-SQL-project/assets/84927676/6606d285-412a-42e8-b3a0-d968e859c508)
 <br><br>
 
 <p>&copy; 2024 Social Media Database Project</p>
 
-![Entity Relationship Diagram](https://github.com/bhaktigada/Social-Media-SQL-project/assets/84927676/6606d285-412a-42e8-b3a0-d968e859c508)
+
 
