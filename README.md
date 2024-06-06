@@ -41,3 +41,5 @@
 
 <p>&copy; 2024 Social Media Database Project</p>
 
+![Entity Relationship Diagram](https://github.com/bhaktigada/Social-Media-SQL-project/assets/84927676/6606d285-412a-42e8-b3a0-d968e859c508)
+
